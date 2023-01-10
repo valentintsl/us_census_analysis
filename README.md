@@ -15,5 +15,5 @@ We recommend you to have Anaconda, or an IPython reader (Jupyter or Jupyter Lab)
 
 ## Deck and report
 
-[Presention deck]: 
+[Presentation deck]: https://github.com/valentintsl/us_census_analysis/blob/main/US%20census%20challenge%20-%20deck.pdf	"Presentation deck"
 
